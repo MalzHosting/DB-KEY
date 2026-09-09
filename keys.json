@@ -1,1 +1,16 @@
-
+{
+  "keys": {
+    "MALZ-BADD9E-E20B7D-C916A0": {
+      "duration": "1d",
+      "durationMs": 86400000,
+      "status": "unused",
+      "createdAt": 1788933637586,
+      "activatedAt": null,
+      "expiresAt": null,
+      "createdBy": "1192243893",
+      "createdByRole": "owner",
+      "activatedBy": null
+    }
+  },
+  "resellers": {}
+}
