@@ -1,1 +1,16 @@
-
+{
+  "keys": {
+    "MALZ-216E6F-04ECF4-5D8CC5": {
+      "duration": "7d",
+      "durationMs": 604800000,
+      "status": "unused",
+      "createdAt": 1788930454007,
+      "activatedAt": null,
+      "expiresAt": null,
+      "createdBy": "1192243893",
+      "createdByRole": "owner",
+      "activatedBy": null
+    }
+  },
+  "resellers": {}
+}
