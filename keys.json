@@ -12,6 +12,17 @@
       "activatedBy": null,
       "revokedAt": 1788932178013,
       "revokedBy": "1192243893"
+    },
+    "MALZ-E9460A-E26829-EF4042": {
+      "duration": "7d",
+      "durationMs": 604800000,
+      "status": "unused",
+      "createdAt": 1788932272027,
+      "activatedAt": null,
+      "expiresAt": null,
+      "createdBy": "1192243893",
+      "createdByRole": "owner",
+      "activatedBy": null
     }
   },
   "resellers": {}
