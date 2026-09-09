@@ -10,6 +10,17 @@
       "createdBy": "1192243893",
       "createdByRole": "owner",
       "activatedBy": null
+    },
+    "MALZ-83DD33-A4F733-3969C2": {
+      "duration": "2d",
+      "durationMs": 172800000,
+      "status": "unused",
+      "createdAt": 1788935584686,
+      "activatedAt": null,
+      "expiresAt": null,
+      "createdBy": "1192243893",
+      "createdByRole": "owner",
+      "activatedBy": null
     }
   },
   "resellers": {}
