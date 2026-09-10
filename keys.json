@@ -12,5 +12,9 @@
       "activatedBy": null
     }
   },
-  "resellers": {}
+  "resellers": {},
+  "api": {
+    "activateUrl": "https://area-cumulative-branches-finger.trycloudflare.com/activate",
+    "updatedAt": 1789002840336
+  }
 }
