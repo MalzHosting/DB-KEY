@@ -3,13 +3,13 @@
     "MALZ-931BA1-B0B17E-A63E1E": {
       "duration": "1m",
       "durationMs": 60000,
-      "status": "unused",
+      "status": "active",
       "createdAt": 1789001934979,
-      "activatedAt": null,
-      "expiresAt": null,
+      "activatedAt": 1789003070068,
+      "expiresAt": 1789003130068,
       "createdBy": "1192243893",
       "createdByRole": "owner",
-      "activatedBy": null
+      "activatedBy": "client"
     }
   },
   "resellers": {},
