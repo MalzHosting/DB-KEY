@@ -10,6 +10,17 @@
       "createdBy": "1192243893",
       "createdByRole": "owner",
       "activatedBy": "client"
+    },
+    "MALZ-3C0996-2CF7D2-2D1B54": {
+      "duration": "1y",
+      "durationMs": 31536000000,
+      "status": "unused",
+      "createdAt": 1789018173111,
+      "activatedAt": null,
+      "expiresAt": null,
+      "createdBy": "1192243893",
+      "createdByRole": "owner",
+      "activatedBy": null
     }
   },
   "resellers": {},
