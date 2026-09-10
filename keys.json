@@ -14,13 +14,13 @@
     "MALZ-3C0996-2CF7D2-2D1B54": {
       "duration": "1y",
       "durationMs": 31536000000,
-      "status": "unused",
+      "status": "active",
       "createdAt": 1789018173111,
-      "activatedAt": null,
-      "expiresAt": null,
+      "activatedAt": 1789018194774,
+      "expiresAt": 1820554194774,
       "createdBy": "1192243893",
       "createdByRole": "owner",
-      "activatedBy": null
+      "activatedBy": "client"
     }
   },
   "resellers": {},
